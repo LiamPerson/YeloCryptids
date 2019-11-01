@@ -1,0 +1,22 @@
+YeloCryptids 3.0 Changelog
+
+ITEMS########################################
+None
+
+AWARDS#######################################
+None
+
+ENGINE#######################################
+Three new skills: Aglity, Woodcutting, Mining
+Advanced Stats System
+Stats effects drops
+
+QUESTS#######################################
+None
+
+PATCHES######################################
+None
+
+TO COME######################################
+ANTI-HAX!
+Multiplayer Cryptids SOON OMG!!!

@@ -1,0 +1,20 @@
+YeloCryptids 2.2 Changelog
+
+ITEMS########################################
+Crown of Speeling Mistakes
+
+AWARDS#######################################
+None
+
+ENGINE#######################################
+Keycodes now avaliable!!!
+
+QUESTS#######################################
+None
+
+PATCHES######################################
+Fixed minor spelling and armor glitches
+
+TO COME######################################
+ANTI-HAX!
+Multiplayer Cryptids SOON OMG!!!
