@@ -10,5 +10,5 @@ Keycode is for unlocking the premium package ingame.
 
 Used to charge 10c a copy (of the exe file) but now I bring it to the public. 
 
-Old website that hosts the game
+Old website that hosts the game:
 https://yelocryptids.webs.com
