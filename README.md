@@ -1,6 +1,7 @@
 # YeloCryptids
  An old game I made when I was 13 (2012). First ever code project.
 
+<img src="https://raw.githubusercontent.com/YeloPartyHat/YeloCryptids/master/Screenshots/Main%20Menu.png" alt="Screenshot of main menu in YeloCryptids.">
 
 Back before I knew about ascii and coding conventions.
 Kind of what a project looks like when you have zero coding experience and knowledge, no help tutorials, and are just trying stuff until something works.
