@@ -1,5 +1,5 @@
 # YeloCryptids
- An old game I made when I was 13 (2012). First ever code project.
+ An old game I made in 2012. First ever code project.
 
 <img src="https://raw.githubusercontent.com/YeloPartyHat/YeloCryptids/master/Screenshots/Main%20Menu.png" alt="Screenshot of main menu in YeloCryptids.">
 
