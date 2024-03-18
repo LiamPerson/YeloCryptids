@@ -1,6 +1,6 @@
 @ echo off
 color 0f
-Title YeloCryptids by YeloPartyHat© 2012 Official Version 3.0
+Title YeloCryptids by YeloPartyHatï¿½ 2012 Official Version 3.0
 setlocal enabledelayedexpansion
 cls
 goto startmenu

@@ -1,6 +1,6 @@
 @ echo off
 color 0f
-Title Cryptids by YeloPartyHat©
+Title Cryptids by YeloPartyHatï¿½
 setlocal enabledelayedexpansion
 cls
 :startgamecryptids
